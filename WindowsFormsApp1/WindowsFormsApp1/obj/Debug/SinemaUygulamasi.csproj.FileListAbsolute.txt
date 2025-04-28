@@ -1,0 +1,13 @@
+C:\Users\bjkoz\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\bjkoz\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\bjkoz\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\bjkoz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SinemaUygulamasi.csproj.AssemblyReference.cache
+C:\Users\bjkoz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\bjkoz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\bjkoz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form3.resources
+C:\Users\bjkoz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form4.resources
+C:\Users\bjkoz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\bjkoz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SinemaUygulamasi.csproj.GenerateResource.cache
+C:\Users\bjkoz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SinemaUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\bjkoz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\bjkoz\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
